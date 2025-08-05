@@ -28,3 +28,24 @@ color: #002f6c;
 font-size: 13px;
 color: #e0dfdf;
 }
+header{
+  background-color: #2a2c39;
+  color: #bdc3c39;
+  -font-family: Arial, sans-serife;
+  text-align:center;
+  height:100px;
+  margin; 0;
+  border:none;
+  width:100%;
+  display:flex;
+  align-items: center;
+  justify-content:center}
+html, body{
+  margin:0;
+  pading:0;
+}
+* {
+  margin:o;
+  padding:0;
+  box-sizing: border-box;
+}
